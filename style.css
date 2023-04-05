@@ -1,0 +1,23 @@
+body{
+    background:linear-gradient(skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: brown;
+}
+p{
+    color: black;
+}
+h2{
+    color: brown;
+    border-style:dotted
+}
+li{
+    color: black;
+}
+#a1{
+    border-style: outset;
+    border-color: chocolate;
+
+}
